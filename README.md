@@ -1,2 +1,2 @@
-# BT-trang-87-tet
-Bai tap Tet 2020-2021
+
+The project includes the files for solving problems in the Python programming language in the attached photo
